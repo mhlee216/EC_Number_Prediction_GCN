@@ -3,7 +3,7 @@
 
 Model
 
-<img src="hhttps://github.com/mhlee216/EC_number_Prediction_PGCN/blob/main/model.png">
+<img src="https://github.com/mhlee216/EC_number_Prediction_PGCN/blob/main/model.png">
 
 Results
 
