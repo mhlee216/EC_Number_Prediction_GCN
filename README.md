@@ -1,1 +1,1 @@
-# EC_number_Prediction_GCN
+# Protein Graph Convolutional Networks for EC Number Prediction
