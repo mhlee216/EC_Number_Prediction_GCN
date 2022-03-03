@@ -1,4 +1,4 @@
-#### Multi-class Multi-label EC Number Prediction Using Protein Graph Convolutional Networks
+#### Multi-class Multi-label Enzyme Function Classification Using Protein Graph Convolutional Network
 
 
 Model
