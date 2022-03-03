@@ -1,7 +1,7 @@
 #### Multi-class Multi-label Enzyme Function Classification Using Protein Graph Convolutional Network
 
 
-Model
+Model (torch=1.8.0+cu111)
 
 <img src="https://github.com/mhlee216/EC_number_Prediction_PGCN/blob/main/model.png">
 
