@@ -1,4 +1,4 @@
-#### Multi-class Multi-label Enzyme Function Classification Using Protein Graph Convolutional Network
+#### Multi-class Multi-label Enzyme Function Classification Using Graph Convolutional Network
 
 
 Model
